@@ -6,3 +6,7 @@ read Customer_Profile
 if Register give Discount
 else
 no Discount
+if Product_Price >= 200 then
+print "30% discount"
+else
+print "No_Discount"
