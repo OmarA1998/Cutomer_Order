@@ -2,3 +2,7 @@ read customer Name, Number, ID, Email
 read customer Product_ID, Product_Price, Quantity
 print Customer_Information
 print Product_Price
+read Customer_Profile
+if Register give Discount
+else
+no Discount
